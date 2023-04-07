@@ -1,0 +1,62 @@
+body{
+    width: auto;
+    height: auto;
+    background-color: blue;
+}
+
+.form1{
+    background-color: blue);
+    width: auto;height: auto;
+}
+
+.img1{
+  width: auto;
+  height: auto;
+ }
+
+ 
+ .p1 {
+
+    color: white;
+    text-align: center;
+    font-size: 45px;
+    text-shadow: -15px -12px 20px rgb(5, 4, 4);
+
+ }
+ .img2{
+    width: 170px;
+    height: 170px;
+ }
+
+ .input1{
+     width: 100px; background-color: brown;
+ }
+
+ .sayttili2{
+    margin: 0px 0px;
+    font-size: 18px;
+    text-shadow: -15px -12px 20px rgb(5, 4, 4);
+    font-style: italic;
+
+ }
+
+ .sayttili1{
+
+    color: white;
+    font-size: 20px;
+    font-style: initial;
+ }
+ .h1{
+   align-items: center; 
+   justify-self: center;
+   border: 22px black;
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    background-color: rgb(55, 255, 0);
+    border-radius: 20px;
+}
+
+.a{
+text-decoration: none
+}

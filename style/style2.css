@@ -1,0 +1,54 @@
+body{
+    background-color: blue;
+    width: 100%;height: 100%;
+}
+
+.form1{
+    background-color:blue;
+    background-image: unset;
+    
+}
+
+.ramka{
+    border: 2px solid white;
+width: 800px; height: auto; 
+margin: auto;
+background-color: rgb(61, 121, 234);
+text-align: center;
+align-items: center;
+}
+.style{
+    color: white;
+    font-size: 25px;
+}
+
+.style2{
+    color: white;
+    font-size: 20px;
+}
+.style3{
+
+    color: white;
+    font-size: 20px;
+}
+.style4{
+    color: white;
+    font-size: 20px;
+}
+.style5{
+    color: white;
+    font-size: 20px;
+}
+.style6{
+
+    font-size: 15px;
+}
+
+.img1{
+    width: 200px;
+    height: 200px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
